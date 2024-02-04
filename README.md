@@ -16,6 +16,8 @@
 
 # ✨ How to start?
 
+### Local environment pre-requisites
+
 1- Install Python 3.10
 
 2- Execute the following command:
@@ -26,6 +28,7 @@ pip install -r requirements.txt
 3- Create a .env file and add:
 ```
 GOOGLE_API_KEY=****
+GOOGLE_APPLICATION_CREDENTIALS==path_to_google_credentials.json
 ```
 [How to obtain Google API Key?](https://makersuite.google.com/app/apikey)
 
