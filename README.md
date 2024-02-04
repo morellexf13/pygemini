@@ -6,7 +6,7 @@
   </h1>
   <sup>
     <br />
-    Python sample to use Google's Gemini AI models through Developer API
+    Python sample to use Google's Gemini AI models through Developer SDK
     <br />
     <br />
   </sup>
